@@ -1,15 +1,15 @@
-# Customer #1 - Laptop Assessment
+# Customer #1 - Dell Latitude 3410 Assessment
 
 ## Customer Concern
 
-Customer reports that an older laptop is functioning normally but has become slower over time. Customer requests a general health assessment and recommendations.
+Customer reports that a Dell Latitude 3410 experiences poor battery performance and may shut down unexpectedly during use.
 
 ## Device Information
 
-- Brand:
-- Model:
-- Approximate Age:
-- Operating System:
+- Brand: Dell
+- Model: Latitude 3410
+- Approximate Age: TBD
+- Operating System: TBD
 
 ## External Inspection
 
